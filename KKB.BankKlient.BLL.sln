@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKB.BankClient.BLL", "KKB.BankKlient.BLL\KKB.BankClient.BLL.csproj", "{B2FDA595-33C6-4F93-BCC6-E98ECED9E216}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKB.BankClient.Web", "KKB.BankClient.Web\KKB.BankClient.Web.csproj", "{594662C6-9E3F-4D1E-A93E-C3DE329B1A8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2FDA595-33C6-4F93-BCC6-E98ECED9E216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FDA595-33C6-4F93-BCC6-E98ECED9E216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FDA595-33C6-4F93-BCC6-E98ECED9E216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FDA595-33C6-4F93-BCC6-E98ECED9E216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594662C6-9E3F-4D1E-A93E-C3DE329B1A8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594662C6-9E3F-4D1E-A93E-C3DE329B1A8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594662C6-9E3F-4D1E-A93E-C3DE329B1A8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594662C6-9E3F-4D1E-A93E-C3DE329B1A8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F7891BC-782A-4CE8-85F7-E7A20B4FE948}
+	EndGlobalSection
+EndGlobal
